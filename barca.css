@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'BarcaFont';
+  src: url('https://cdn.jsdelivr.net/gh/ivangrishin72-coder/my-fonts@main/barca.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
